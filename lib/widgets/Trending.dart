@@ -53,7 +53,7 @@ class ListItem3 extends StatelessWidget {
                                     listItem.titleEnglish!,
                                     maxLines: 2,
                                     style: const TextStyle(
-                                        fontSize: 15,
+                                        fontSize: 13,
                                         fontWeight: FontWeight.bold),
                                   ),
                                 ),
@@ -67,7 +67,7 @@ class ListItem3 extends StatelessWidget {
                                     overflow:TextOverflow.ellipsis,
                                     maxLines: 5,
                                     style: const TextStyle(
-                                        fontSize: 11,
+                                        fontSize: 8,
                                         ),
                                   ),
                                 ),
@@ -81,7 +81,7 @@ class ListItem3 extends StatelessWidget {
                                     overflow:TextOverflow.ellipsis,
                                     maxLines: 5,
                                     style: const TextStyle(
-                                        fontSize: 13,
+                                        fontSize: 10,
                                         ),
                                   ),
                                 ),
@@ -95,7 +95,7 @@ class ListItem3 extends StatelessWidget {
                                     overflow:TextOverflow.ellipsis,
                                     maxLines: 5,
                                     style: const TextStyle(
-                                        fontSize: 13,
+                                        fontSize: 10,
                                         ),
                                   ),
                                 ),
@@ -109,7 +109,7 @@ class ListItem3 extends StatelessWidget {
                                     overflow:TextOverflow.ellipsis,
                                     maxLines: 5,
                                     style: const TextStyle(
-                                        fontSize: 13,
+                                        fontSize: 10,
                                         ),
                                   ),
                                 ),
